@@ -1,0 +1,7 @@
+# Folders
+.idea/*
+.gradle/*
+.metadata/*
+.recommenders/*
+/.metadata/
+/.recommenders/
